@@ -336,7 +336,7 @@ body {
   background-color: #141530;
   weight:100%;
   display:flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .main-menu li {

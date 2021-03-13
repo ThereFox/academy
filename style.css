@@ -329,7 +329,7 @@ body {
 }
 .main-menu {
   margin: 100px 0;
-  padding: 0px;
+  padding: 15px 10px;
   list-style: none;
   border: 2px solid #ffffff0d;
   text-align: center;

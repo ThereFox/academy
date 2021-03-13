@@ -335,12 +335,11 @@ body {
   text-align: center;
   background-color: #141530;
   weight:100%;
+  display:flex;
+  justify-content: space-around;
 }
 
 .main-menu li {
-  margin: 25px;
-  display: inline-block;
-  margin-right: 10%;
   text-align: center;
 }
 
